@@ -17,7 +17,7 @@ Make sure you are saving your notebook regularly as Google Colab times out (pret
 
 1. Launch the notebook in Google Colab (see below)
 2. Run the first cells to upgrade Gensim and install Java/Mallet.
-3. There is a cell to upload and extract the corpus zip file.  
+3. There is a cell to upload and extract the corpus zip file. Warning: uploads are quite slow.  
 4. Use the notebook to create your topic model.  
 
 ## A note to everyone
