@@ -11,13 +11,13 @@ This repository is designed for students in DIGI405 at the University of Canterb
 
 ## A note to DIGI405 students
 
-Make sure you are saving your notebook regularly as Google Colab times out (pretty sure this is after 90 minutes - if you can find the official Google documentation on this let me know!).
+Make sure you are saving your notebook regularly as Google Colab times out (pretty sure this is after 90 minutes - if you can find the official Google documentation to confirm this please let me know!).
 
 ### Steps for DIGI405:
 
 1. Launch the notebook in Google Colab (see below)
-2. Run the first cells to upgrade Gensim and install Java/Mallet.
-3. There is a cell to upload and extract the corpus zip file. Warning: uploads are quite slow.  
+2. Run the first cells to upgrade Gensim and install Java and Mallet.
+3. Run the cell to upload and extract the corpus zip file. Warning: uploads are quite slow.  
 4. Use the notebook to create your topic model.  
 
 ## A note to everyone
