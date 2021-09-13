@@ -11,6 +11,8 @@ See also: [Binder + Gensim + Mallet](https://github.com/polsci/binder-gensim-mal
 
 This repository is designed for students in DIGI405 at the University of Canterbury to do topic modeling through their browser using [Google Colab](https://colab.research.google.com/). It is relevant for others who want to do topic modeling through a browser with their own corpus.
 
+Note: The notebook has been updated to enforce Gensim v3.8 (the last version to support running topic models via Mallet).
+
 ## A note to DIGI405 students
 
 Make sure you are saving your notebook regularly as Google Colab times out (pretty sure this is after 90 minutes - if you can find the official Google documentation to confirm this please let me know!).
