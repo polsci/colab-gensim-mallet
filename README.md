@@ -1,8 +1,8 @@
 # Colab + Gensim + Mallet
 
-September 26, 2019  
+September 14, 2021  
 Geoff Ford  
-https://geoffford.nz  
+https://polsci.github.io/  
 https://github.com/polsci/  
 
 See also: [Binder + Gensim + Mallet](https://github.com/polsci/binder-gensim-mallet)
